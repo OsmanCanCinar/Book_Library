@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Book Library</string>
+    <string name="title_hint">Book Title</string>
+    <string name="author_hint">Book Author</string>
+    <string name="page_hint">Number of Pages</string>
+    <string name="add_button">ADD</string>
+    <string name="delete_button">DELETE</string>
+    <string name="update_button">UPDATE</string>
+    <string name="deleteAll_menu">Delete All</string>
+    <string name="no_data">NO RECORDS AVAILABLE!</string>
+</resources>
